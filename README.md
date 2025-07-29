@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/deepakkumar1111/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0494-target-sum](https://github.com/deepakkumar1111/LEETCODE/tree/master/0494-target-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/deepakkumar1111/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0494-target-sum](https://github.com/deepakkumar1111/LEETCODE/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
